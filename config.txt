@@ -1,0 +1,29 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx7e8b8911b97dee0c",
+# 公众号appSecret
+"app_secret": "b4dce2e956069e39b53c5ff57f412b50",
+# 模板消息id
+"template_id": "EsP5_B_JQr8uc4V7S4snHHnj4NxwvKWhrNa2rldhFRg",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oXNPd6trOreRV9vnp0lFykqRIYeo","oXNPd6kt5dpbza7E7rISSoGp-wUc"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "f18a369f677d4fe3a7fed43d2fc7cb57",
+# 天行数据apikey
+"tian_api": "",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "诸城市",
+# 生日1
+"birthday1": {"name": "小梅", "birthday": "2003-02-13"},
+# 生日2
+"birthday2": {"name": "小旭", "birthday": "r2002-10-22"},
+# 在一起的日子，格式同上
+"love_date": "2021-06-23",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "小呆瓜,以后不要那么容易生气好不好  更不要冷着我",
+# 金句英文
+"note_en": ""
+}
